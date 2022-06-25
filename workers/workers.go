@@ -13,7 +13,6 @@ type Worker interface {
 	Name() string
 	Run() (bool, error)
 	SleepTime() time.Duration
-	MaxAttempts() int
 }
 
 type Runner struct {
