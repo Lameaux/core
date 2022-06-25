@@ -5,7 +5,7 @@ import (
 	"regexp"
 	"strings"
 
-	"euromoby.com/core/utils"
+	"github.com/Lameaux/core/utils"
 )
 
 type MSISDN uint64

@@ -6,7 +6,7 @@ import (
 
 	"github.com/google/uuid"
 
-	"euromoby.com/core/logger"
+	"github.com/Lameaux/core/logger"
 )
 
 func NewUUID() string {

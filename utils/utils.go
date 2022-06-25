@@ -4,7 +4,7 @@ import (
 	"os"
 	"strconv"
 
-	"euromoby.com/core/logger"
+	"github.com/Lameaux/core/logger"
 )
 
 // GetEnv returns ENV variable or fallbacks to default.

@@ -1,4 +1,4 @@
-module euromoby.com/core
+module github.com/Lameaux/core
 
 go 1.18
 

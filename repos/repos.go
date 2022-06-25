@@ -8,9 +8,9 @@ import (
 	"github.com/georgysavva/scany/pgxscan"
 	"github.com/jackc/pgx/v4"
 
-	"euromoby.com/core/db"
+	"github.com/Lameaux/core/db"
 
-	coremodels "euromoby.com/core/models"
+	coremodels "github.com/Lameaux/core/models"
 )
 
 const (

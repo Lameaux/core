@@ -8,8 +8,8 @@ import (
 	"runtime"
 	"time"
 
-	"euromoby.com/core/db"
-	"euromoby.com/core/logger"
+	"github.com/Lameaux/core/db"
+	"github.com/Lameaux/core/logger"
 )
 
 const execTimeout = 2 * time.Second

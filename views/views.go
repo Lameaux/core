@@ -3,7 +3,7 @@ package views
 import (
 	"github.com/gin-gonic/gin"
 
-	"euromoby.com/core/logger"
+	"github.com/Lameaux/core/logger"
 )
 
 type ErrorResponse struct {

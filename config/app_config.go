@@ -9,9 +9,9 @@ import (
 	"github.com/jackc/pgx/v4/pgxpool"
 	"github.com/joho/godotenv"
 
-	"euromoby.com/core/httpclient"
-	"euromoby.com/core/logger"
-	"euromoby.com/core/utils"
+	"github.com/Lameaux/core/httpclient"
+	"github.com/Lameaux/core/logger"
+	"github.com/Lameaux/core/utils"
 )
 
 var (

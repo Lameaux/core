@@ -6,7 +6,7 @@ import (
 	"runtime/debug"
 	"time"
 
-	"euromoby.com/core/logger"
+	"github.com/Lameaux/core/logger"
 )
 
 type Worker interface {
